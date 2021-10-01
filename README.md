@@ -3,6 +3,17 @@ A fairly accurate list of all of Anakin's lines from eps 1-3.
 
 I found this spreadsheet kicking around on my hard drive from years ago and might as well share it. 
 
+## Format:
+```
+[
+  {
+    "episode" : int,
+    "lines" : [str]
+  },
+  ...
+]
+```
+
 ## Sources:
 Episode 1 + 2 lines came from me watching the film with subtitles and the remote close at hand.
 
